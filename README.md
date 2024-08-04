@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asif Mursal</h1>
-<h3 align="center">Greetings! I'm Asif Mursal, a prefinal year AI & DS engineering student at VIT Pune '25. Currently serving as the Web Dev Co-head at Team Quark, I specialize in cutting-edge technologies like JS, React, Node, Python, and Django. With a keen interest in exploring new technologies, I'm passionate about crafting seamless web experiences. Let's connect and innovate together for a future of endless possibilities! 🚀</h3>
+<h3 align="center">Greetings! I'm Asif Mursal, a prefinal year AI & DS engineering student at VIT Pune '25. Currently serving as the Full stack developer at editai, I specialize in cutting-edge technologies like JS, React, Node, Python, and Django. With a keen interest in exploring new technologies, I'm passionate about crafting seamless web experiences. Let's connect and innovate together for a future of endless possibilities! 🚀</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifmursal" alt="asifmursal" /></a> </p>
 
